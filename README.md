@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Govind Ganeriwal, A frontend developer Specializing in react and next js<br>👀 I’m interested in blockchain development<br>🌱 I’m currently learning blockchain development<br>💞️ I’m looking to collaborate on frontend projects<br>📫 How to reach me govindganeriwal@gmail.com
+👋 Hi, I’m Govind Ganeriwal, A frontend react developer<br>👀 I’m interested in blockchain development<br>🌱 I’m currently learning blockchain development<br>💞️ I’m looking to collaborate on frontend projects<br>📫 How to reach me govindganeriwal@gmail.com
 
 
 ## 🌐 Socials:
