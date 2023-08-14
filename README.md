@@ -1,5 +1,8 @@
 # 💫 About Me:
-👋 Hi, I’m Govind Ganeriwal, A frontend react developer<br>👀 I’m interested in blockchain development<br>🌱 I’m currently learning blockchain development<br>💞️ I’m looking to collaborate on frontend projects<br>📫 How to reach me govindganeriwal@gmail.com
+👋 Hi, I’m Govind, A full-stack, frontend specializing Indie web & app dev<br> 
+🔱 Currently working at superu, https://superu.ai || https://github.com/govind-superu<br>
+🌟 Off-late building some cool stuff with three.js <br>
+📫 Reach out to me at govindganeriwal@gmail.com
 
 
 ## 🌐 Socials:
